@@ -6,11 +6,9 @@
 
 ![alt](https://github.com/wjjjjyourFA/NUDT_ALV_OPEN/blob/master/images/20221119.jpg)
 
-2022年数据效果：
+2023年数据效果：
 
 ![alt](https://github.com/wjjjjyourFA/NUDT_ALV_OPEN/blob/master/images/20231016.png)
-
-![alt](https://github.com/wjjjjyourFA/NUDT_ALV_OPEN/blob/master/images/20231017.png)
 
 
 
